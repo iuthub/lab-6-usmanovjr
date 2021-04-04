@@ -21,7 +21,6 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
 		$found="Ur string wasn't found inside of the text you entered";
 	}
 }
-
 ?>
 
 
